@@ -20,4 +20,4 @@ C# · Windows Forms · .NET Framework 4.8 · SQL Server LocalDB · Visual Studio
 4. Vérifier la chaîne de connexion dans `GestionEtudiantsApp.UII/App.config`.
 5. Compiler et lancer le projet d'interface `GestionEtudiantsApp.UII`.
 
-**Note :** Code retrouvé dans une archive scolaire. Le projet n'a pas été recompilé ni testé dans cet environnement ; une configuration locale peut être nécessaire.
+**Note :** Ce projet a été réalisé dans le cadre de ma formation en développement informatique. Il présente mes connaissances en C#, Windows Forms et SQL Server. Une configuration locale de la base de données est nécessaire pour l'exécuter.
