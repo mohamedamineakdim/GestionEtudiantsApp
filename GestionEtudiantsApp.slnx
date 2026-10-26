@@ -1,0 +1,16 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="GestionEtudiantsApp.BLL/GestionEtudiantsApp.BLL.csproj" Id="8fe1cc54-8a14-4c8d-8d01-5b1b4f7e939b">
+    <Platform Solution="*|x86" Project="x86" />
+  </Project>
+  <Project Path="GestionEtudiantsApp.DAL/GestionEtudiantsApp.DAL.csproj" Id="95e07d5d-e5e7-4086-9b37-13a27e1861d0">
+    <Platform Solution="*|x86" Project="x86" />
+  </Project>
+  <Project Path="GestionEtudiantsApp.Models/GestionEtudiantsApp.Models.csproj" Id="75a00efa-0b2e-45b1-a344-8fec5631212a">
+    <Platform Solution="*|x86" Project="x86" />
+  </Project>
+  <Project Path="GestionEtudiantsApp.UII/GestionEtudiantsApp.UII.csproj" Id="b2452984-b2b0-4e8e-b157-4044ae7681ea" />
+</Solution>
